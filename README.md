@@ -9,10 +9,15 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1.Import the required libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn.
+
 2.Load the customer dataset and select the required features for clustering.
+
 3.Use the Elbow Method to determine the optimal number of clusters.
+
 4.Apply the K-Means clustering algorithm to group the customers into clusters.
+
 5.Visualize the clusters using a scatter plot.
+
 6.Display the cluster centroids and segmented customer groups.
 ## Program:
 ```
